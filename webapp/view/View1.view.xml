@@ -1,6 +1,7 @@
 <mvc:View controllerName="QuickStartApplication.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
 	xmlns="sap.m">
 	<App id="idAppControl">
+		<!-- comment -->
 		<pages>
 			<Page title="Your Quick Start application is ready!">
 				<content>
